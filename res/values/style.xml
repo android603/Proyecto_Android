@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="estiloboton_prin">
+        <item name="android:background">@drawable/shape_botones</item>
+    </style>
+    
+    <style name="estilobotonConvertirAzul">
+        <item name="android:background">@drawable/shape_botones_azul</item>
+    </style>
+    
+
+    
+</resources>

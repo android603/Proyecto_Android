@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Croconcer1_0</string>
+    <string name="action_settings">Settings</string>
+    <string name="Titulo">CROCONVER</string>
+    <string name="centiAMetros">CENTIMETROS - METROS</string>
+    <string name="centiAKilometros">CENTIMETROS - KILOMETROS</string><string name="menuMedida">MEDIDA</string><string name="mtrosAKilometros">METROS - KILOMETROS</string>
+    
+    <string name="fahrenheitACelsius">FAHRENHEIT - CELSIUS</string><string name="kilomAMetros">KILOMETROS - METROS</string>
+    
+    
+    <string name="celsiusAFahrenheit">CELSIUS - FAHRENHEIT</string>
+    <string name="menuTemperatura">TEMPERATURA</string><string name="menuMasa">MASA</string><string name="kiloAGramo">KILOGRAMO - GRAMO</string><string name="gramoAKilo">GRAMO - KILOGRAMO</string><string name="miligAGramo">MILIGRAMO - GRAMO</string><string name="fahrenheitAKelvin">FAHRENHEIT - KELVIN</string>
+    
+    
+    
+    <string name="miligAKilo">MILIGRAMO - KILOGRAMO</string>
+    
+    
+
+</resources>
